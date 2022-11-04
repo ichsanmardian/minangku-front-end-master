@@ -1,2 +1,2 @@
 # minangku-front-end-master
-ttytr
+Untuk belajar dasar Front-End Developer 
